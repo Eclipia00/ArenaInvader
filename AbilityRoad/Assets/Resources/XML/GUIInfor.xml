@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+  <Element key="Playground"          value="Prefabs/GUI/FullScreen/GUI_Playground" />
+  <Element key="MatchSetting"        value="Prefabs/GUI/FullScreen/GUI_MatchSetting" />
+  <Element key="Result"              value="Prefabs/GUI/FullScreen/GUI_Result" />
+
+  <Element key="Setting"             value="Prefabs/GUI/PopUp/GUI_Setting" />
+  <Element key="TurnStart"           value="Prefabs/GUI/PopUp/GUI_TurnStart" />
+  <Element key="Dice"                value="Prefabs/GUI/PopUp/GUI_D6Dice" />
+  <Element key="DartDice"            value="Prefabs/GUI/PopUp/GUI_DartDice" />
+  <Element key="RouletteDice"        value="Prefabs/GUI/PopUp/GUI_RouletteDice" />
+  <Element key="SelectMovePawn"      value="Prefabs/GUI/PopUp/GUI_SelectMovePawn" />
+  <Element key="Battle"              value="Prefabs/GUI/PopUp/GUI_Battle" />
+  <Element key="Raid"                value="Prefabs/GUI/PopUp/GUI_Raid" />
+  <Element key="Shop"                value="Prefabs/GUI/PopUp/GUI_Shop" />
+  <Element key="PlayerAction"        value="Prefabs/GUI/PopUp/GUI_PlayerAction" />
+  <Element key="PlayerInfor"         value="Prefabs/GUI/PopUp/GUI_PlayerInfor" />
+  <Element key="Inventory"           value="Prefabs/GUI/PopUp/GUI_Inventory" />
+</List>
